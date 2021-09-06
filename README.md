@@ -5,6 +5,4 @@ Long time-series data means the beginning data in a long sequence can affect the
 
 This repository contains a PyTorch implementation of Salesforce Research's Quasi-Recurrent Neural Networks paper.
 
-To install, simply run: pip install cupy pynvrtc git+https://github.com/salesforce/pytorch-qrnn.
-
 The template is used to support related researches on testcase filteration in stateful network protocol fuzzing.
