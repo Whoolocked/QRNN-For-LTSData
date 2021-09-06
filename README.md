@@ -1,2 +1,2 @@
 # QRNN-For-LTSData
-QRNN Model for Long Time-Series Data
+A Quasi-Recurrent Neural Network model used for processing long time-series data
