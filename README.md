@@ -1,2 +1,2 @@
 # QRNN-For-LTSData
-A Quasi-Recurrent Neural Network model used for processing long time-series data
+We build a QRNN model used for processing long time-series data, such as stateful network protocol messages
